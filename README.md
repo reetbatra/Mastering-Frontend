@@ -8,3 +8,4 @@ Currently using [scrimba](https://scrimba.com/learn/frontend) to learn.
 - *Day 3:* Flag of Gambia using HTML & CSS deployed [here](https://649dd0428f524320aafa3ac7--tubular-fenglisu-947480.netlify.app/).
 - *Day 4:* A simple professional business card using HTML and CSS deployed [here](https://64a31f32de745144fb7bd901--meek-trifle-33e7ab.netlify.app/).
 - *Day 5:* A space site using HTML and CSS deployed [here](https://64a34f609bc5c7638924ba43--thriving-unicorn-243e53.netlify.app/).
+- *Day 6:* A happy birthday site for my best friend deployed [here](https://64a530d79f31647561fee038--lively-lokum-efd7f7.netlify.app/).
