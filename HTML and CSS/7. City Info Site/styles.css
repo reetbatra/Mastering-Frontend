@@ -1,0 +1,129 @@
+/* Color pallete: https://coolors.co/palette/edafb8-f7e1d7-dedbd2-b0c4b1-4a5759 */
+
+
+body{
+margin: 0;
+text-align: center;
+     font-family: 'Merriweather', serif;
+     justify-content: space-between;
+}
+
+/* h1, h3{
+    margin-top: 0;
+    display: flex;
+    text-align: center;
+    
+} */
+
+
+
+#hero{
+    background-image: url("images/Bilaspur.jpg");
+    background-size: cover;
+    background-color: white;
+    background-position: center;
+    height: 400px;
+    width: 100%;
+    
+}
+
+.activites{
+    padding: 20px;
+    background-color: d8e2dc;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.welcome {
+    color: #6fffe9;
+    text-align: right;
+    padding: 40px 40px 0 20px;
+    text-shadow: 2px 2px 2px black;
+  }
+
+  .locations-tag {
+    font-style: normal;
+    color: #264653;
+  }
+
+  .locations {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+  }
+  
+  .location-paragraph {
+    width: 200px;
+    font-size: small;
+    text-align: center;
+    justify-content: space-around;
+  }
+  
+  .avatar {
+      border-radius: 70px;
+      width: 200px;
+      border: 1px solid white;
+  }
+  
+  #fzoo {
+    height: 150px;
+  }
+  
+  #zoo:hover {
+    border: 2px solid #5c677d;
+  }
+  
+  #dam:hover {
+    border: 2px solid #5c677d;
+  }
+  
+  #temple:hover {
+    border: 2px solid #5c677d;
+  }
+  
+  .footer {
+    background-color: #118ab2;
+    text-align: center;
+  }
+  .Guide {
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border: 2px solid #80ffdb;
+    background-color: #80ffdb;
+  
+  }
+  #guidepic {
+    border-radius: 50%;
+    width: 150px;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: 20px;
+    margin-bottom: 0px;
+  
+  }
+  
+  .guidewords {
+    font-weight: bolder;
+    text-align: center;
+    text-justify: auto;
+    text-align: center;
+    align-items: center;
+  }
+  #guidepic:hover {
+    border: 2px solid #5c677d;
+  }
+  #guide-bio {
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+  }
+  
+
+
