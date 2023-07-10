@@ -4,6 +4,7 @@ Here I attempt to master frontend one day at a time!
 Resources I am using:
 - [scrimba](https://scrimba.com/learn/frontend) to learn.
 - [iCodeThis](https://icodethis.com/app) to practice.
+- Practicing react for coding interviews [here](https://www.reacterry.com/).
 - Planning to take [this](https://developedbyed.com/p/the-full-stack-react-course) after completing scrimba and angela.
 
 ## Day-wise learning to stay accountable.
