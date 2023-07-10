@@ -17,4 +17,5 @@ Resources I am using:
 - *Day 7:* A site about my own hometown, tourist attracts there deployed [here](https://64a7e3c8ce57ea590e2f9eeb--splendorous-swan-827113.netlify.app/).
 - *Day 8:* Started with learning javascript
 - *Day 9:* Counter App with HTML, CSS and JavaScript deployed [here](https://64ab0250803f815519e0bdca--sensational-salamander-c893f3.netlify.app/).
-- *Day 10:*
+- *Day 10:* Took a quick crash course on TypeScript [here](https://www.youtube.com/watch?v=kq6IhAZVNh8).
+- *Day 11:* 
