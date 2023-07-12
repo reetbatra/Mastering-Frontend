@@ -1,0 +1,46 @@
+
+
+  h1{
+    
+    text-shadow: blueviolet;
+    background-color: #caf0f8;
+    border-radius: 20px;
+    padding: 10px 15px;
+    text-align: center;
+    font-weight: 700px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  h2{
+    
+    text-shadow: blueviolet;
+    background-color: #d89a9e;
+    /* border-radius: 20px; */
+    padding: 10px 15px;
+    text-align: center;
+    font-weight: 700px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 50px;
+    border: dotted lightgrey;
+  }
+
+
+
+  body{
+    margin: 0px;
+    background-color: #967aa1;
+  }
+
+  .container{
+    display: flex;
+    justify-content: space-around;
+  }
+
+  button{
+    padding: 5px 10px;
+    margin: 5px 10px;
+    text-align: center;
+    background-color: #bbd1ea;
+    border:dotted #ff0a54;
+  }
+  
