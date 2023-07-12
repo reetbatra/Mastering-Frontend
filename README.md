@@ -19,4 +19,4 @@ Resources I am using:
 - *Day 8:* Started with learning javascript and learnt figma from [this](https://www.youtube.com/watch?v=ybc2gkvjMDs).
 - *Day 9:* Counter App with HTML, CSS and JavaScript deployed [here](https://64ab0250803f815519e0bdca--sensational-salamander-c893f3.netlify.app/).
 - *Day 10:* Took a quick crash course on TypeScript [here](https://www.youtube.com/watch?v=kq6IhAZVNh8).
-- *Day 11:* 
+- *Day 11:* Built a basketball scoreboard using HTML, CSS and JavaScript deployed [here](https://64af01843ccad017b1583cca--fastidious-lollipop-001133.netlify.app/).
