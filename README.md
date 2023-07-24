@@ -21,4 +21,5 @@ Resources I am using:
 - *Day 9:* Counter App with HTML, CSS and JavaScript deployed [here](https://64ab0250803f815519e0bdca--sensational-salamander-c893f3.netlify.app/).
 - *Day 10:* Took a quick crash course on TypeScript [here](https://www.youtube.com/watch?v=kq6IhAZVNh8) and [here](https://www.freecodecamp.org/news/learn-typescript-beginners-guide/).
 - *Day 11:* Built a basketball scoreboard using HTML, CSS and JavaScript deployed [here](https://64af01843ccad017b1583cca--fastidious-lollipop-001133.netlify.app/).
-- *Day 12:* Built a blackjack game using objects, fucntions, loops in JavaScript deployed [here](https://thriving-puppy-305d6e.netlify.app/).
+- *Day 12:* Built a blackjack game using objects, fucntions, loops in JavaScript deployed [here](https://64bea2cc0f2b2316b42da63a--poetic-melomakarona-ac4525.netlify.app/).
+- *Day 13:* Built a random password generator.
